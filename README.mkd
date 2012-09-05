@@ -1,3 +1,7 @@
 Postgres Database Files
 ------------
 This is a series of database files that we will use for lab exercises in 67-311: Database Design and Implementation.  This course is being taught at Carnegie Mellon University in the Information Systems Department during the fall of 2012.  The pdf instructions for the labs can be found on the course website at http://cmu-is-311.org.  
+
+```  
+ NOTE: students need to replace the 'profh' owner with your own db owner name in these files before trying to load the database. 'Replace all' in your favorite text editor and you are set. 
+```
